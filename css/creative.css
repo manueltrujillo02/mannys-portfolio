@@ -12,7 +12,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: #589fd4;
+  border-color: #4682B4;
   border-width: 3px;
   max-width: 50px;
 }
@@ -43,7 +43,7 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #589fd4;
+  background-color: #4682B4;
 }
 .bg-dark {
   background-color: #222222;
@@ -233,7 +233,7 @@ header .header-content .header-content-inner p {
   color: white;
   opacity: 0;
   display: block;
-  background: #589fd4(240, 95, 64, 0.9);
+  background: #b37c48(240, 95, 64, 0.9);
   position: absolute;
   bottom: 0;
   text-align: center;
@@ -442,4 +442,8 @@ body {
 
 .social {
     color: black;
+}
+
+#aboutmeimage{
+  border-radius: 50%;
 }
